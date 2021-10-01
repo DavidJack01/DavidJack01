@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidJack01
-- 👀 I’m interested in world
-- 🌱 I’m currently learning world
+- 👀 I’m interested in ... (ask me)
+- 🌱 I’m currently learning ... (ask me)
 - 💞️ I’m looking to collaborate on crytpocurrency project development
 - 📫 Reach me via email: david@widecoin.org
 
