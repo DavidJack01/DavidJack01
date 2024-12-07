@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DavidJack01
+- 👋 Hi, I’m ....
 - 👀 I’m interested in . . .
 - 🌱 I’m currently learning . . . 
 - 💞️ I’m looking to collaborate on . . .
-- 📫 Reach me via email: david@widecoin.org
+- 📫 Reach me via email: .....
 
 <!---
 DavidJack01/DavidJack01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
